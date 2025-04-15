@@ -1,2 +1,2 @@
-console.log('hello World!')
-let name = 'ghhf'
+const userAge1 = 18
+const userAge2 = 24
