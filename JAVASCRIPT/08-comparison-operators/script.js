@@ -1,2 +1,3 @@
 const userAge1 = 18
 const userAge2 = 24
+const name = 'aditya'
