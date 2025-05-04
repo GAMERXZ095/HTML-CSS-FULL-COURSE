@@ -1,4 +1,6 @@
-const user = {
+let userName = 'aditya'
+
+let user = {
   fistName: 'Aditya',
   lastName: 'Sharma',
   pata: {
@@ -14,4 +16,7 @@ const user = {
   isGraduate: false,
 }
 
-let userName = 'aditya'
+//Object.seal(user)
+Object.freeze(user)
+
+console.log('isGraduate' in user)
