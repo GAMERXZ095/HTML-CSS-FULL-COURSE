@@ -97,6 +97,10 @@ const getLocalTodo = () => {
 }
 }
 
+const delLocalTodo = () => {
+  
+}
+
 document.addEventListener('DOMContentLoaded', getLocalTodo);
 addBtn.addEventListener('click', addTodo)
 todoList.addEventListener('click', updateTodo)
