@@ -5,8 +5,9 @@
 }
 body {
   background-color: #69dc9e;
+  text-align: center;
 }
 
-.container{
-  align-items: center;
+.container {
+  height: 70vh;
 }
